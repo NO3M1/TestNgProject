@@ -1,0 +1,10 @@
+<suite name="Suite1"  >
+    <test name="myTest" >
+        <classes>
+            <class name="FirstTestNgClass" />
+            <class name="SecondTestNgClass"/>
+        </classes>
+    </test>
+    </suite>
+
+
